@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Should've not evolved from monkeys
 Use the left arrow to go back!
